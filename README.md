@@ -24,7 +24,7 @@ To access and run the code, clone this repository:
 
 ```
 bash git clone https://github.com/tyyang05/beneficial_exposome.git
-cd YOUR-REPOSITORY 
+cd beneficial_exposome
 ```
 
 If using R, open the project folder in RStudio and run the analysis scripts from the repository root directory.
