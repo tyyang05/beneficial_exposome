@@ -23,7 +23,7 @@ Participant-normalized z-scores were calculated relative to each participant’s
 To access and run the code, clone this repository:
 
 ```
-bash git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+bash git clone https://github.com/tyyang05/beneficial_exposome.git
 cd YOUR-REPOSITORY 
 ```
 
