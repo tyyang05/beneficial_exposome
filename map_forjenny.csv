@@ -1,0 +1,18 @@
+"pid","pid_num","sex","age","bmi","group","WHO_5","WHO_5_raw","WHO_5_class","GAD_2","GAD_2_class","PHQ_2","PHQ_2_class","PSS_10","PSS_10_class","POMS_total"
+"P-02",2,"F",65.388090349076,25.01492195,"B",28,7,"Poor well-being",5,"Positive anxiety screen",3,"Positive depression screen",28,"High perceived stress",72
+"P-08",8,"F",71.1101984941821,32.61138889,"C",84,21,"Adequate well-being",0,"Negative anxiety screen",0,"Negative depression screen",3,"Low perceived stress",63
+"P-09",9,"M",75.4140999315537,25.25061224,"A",80,20,"Adequate well-being",0,"Negative anxiety screen",0,"Negative depression screen",3,"Low perceived stress",58
+"P-10",10,"F",69.3826146475017,21.09,"A",84,21,"Adequate well-being",1,"Negative anxiety screen",0,"Negative depression screen",10,"Low perceived stress",65
+"P-102",102,"F",58.280629705681,21.3,"B",84,21,"Adequate well-being",1,"Negative anxiety screen",0,"Negative depression screen",10,"Low perceived stress",61
+"P-11",11,"M",68.5667351129363,26.44386574,"A",72,18,"Adequate well-being",1,"Negative anxiety screen",0,"Negative depression screen",11,"Low perceived stress",76
+"P-21",21,"F",68.5722108145106,31.88208617,"A",72,18,"Adequate well-being",0,"Negative anxiety screen",0,"Negative depression screen",1,"Low perceived stress",53
+"P-24",24,"F",41.2073921971253,29.5,"A",76,19,"Adequate well-being",2,"Negative anxiety screen",0,"Negative depression screen",13,"Low perceived stress",72
+"P-25",25,"F",42.3353867214237,33.7,"B",68,17,"Adequate well-being",1,"Negative anxiety screen",0,"Negative depression screen",11,"Low perceived stress",62
+"P-26",26,"F",52.9911019849418,20.9,"B",76,19,"Adequate well-being",0,"Negative anxiety screen",0,"Negative depression screen",6,"Low perceived stress",70
+"P-30",30,"F",60.4490075290897,20.59570313,"C",92,23,"Adequate well-being",0,"Negative anxiety screen",0,"Negative depression screen",6,"Low perceived stress",52
+"P-38",38,"F",58.6420260095825,30.97570545,"A",60,15,"Adequate well-being",2,"Negative anxiety screen",0,"Negative depression screen",15,"Moderate perceived stress",107
+"P-41",41,"M",50.0643394934976,27.1,"C",68,17,"Adequate well-being",0,"Negative anxiety screen",0,"Negative depression screen",12,"Low perceived stress",64
+"P-51",51,"F",NA,NA,"B",52,13,"Adequate well-being",5,"Positive anxiety screen",1,"Negative depression screen",24,"Moderate perceived stress",114
+"P-95",95,"F",51.8822724161533,19.2,"A",68,17,"Adequate well-being",1,"Negative anxiety screen",0,"Negative depression screen",11,"Low perceived stress",68
+"P-98",98,"M",NA,NA,"B",40,10,"Poor well-being",5,"Positive anxiety screen",4,"Positive depression screen",22,"Moderate perceived stress",116
+"P-99",99,"M",NA,NA,"B",60,15,"Adequate well-being",3,"Positive anxiety screen",0,"Negative depression screen",22,"Moderate perceived stress",74
